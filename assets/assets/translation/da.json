@@ -10,6 +10,7 @@
   "signUp": "Tilmelde",
   "forgetPassword": "Glemt kodeord ?",
   "username": "Brugernavn",
+  "surname": "Efternavn",
   "mobile": "Mobil",
   "validEmail": "E-mail må ikke være tom",
   "wrongEmail": "Indtast venligst en gyldig e-mail",

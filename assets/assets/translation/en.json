@@ -10,6 +10,7 @@
   "signUp": "Sign up",
   "forgetPassword": "Forget Password ?",
   "username": "UserName",
+  "surname": "SurName",
   "mobile": "Mobile",
   "validEmail": "E-mail must not be empty",
   "wrongEmail": "Please enter a valid email",
